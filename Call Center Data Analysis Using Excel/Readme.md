@@ -87,7 +87,7 @@ This project demonstrates how **Excel** can be effectively used for data analysi
 ---
 
 ## Dashboard Preview
-![Call Centre Dashboard](/Call_Centre_Project.png)
+![Call Centre Dashboard](Call_Centre_Project.png)
 
 ---
 
